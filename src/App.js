@@ -21,6 +21,9 @@ mongoose.connect(MongoURI, { useNewUrlParser: true, useUnifiedTopology: true })
 /*
                                                     Start of your code
 */
+app.get("/Home", (req, res) => {
+    res.status(200).send("You have everything installed !");
+  });
 
 // #Routing to usercontroller here
 
