@@ -13,3 +13,11 @@ cd src
 ```
 node app.js
 ```
+### In case of any missing libraries. 
+- please fix and install everything before coming. 
+
+### - Click here to check [Go](http://localhost:8000/home)
+
+
+
+
