@@ -20,4 +20,5 @@ node app.js
 
 
 
-
+### alternative db connection
+'mongodb+srv://nadahesham:test1234@cluster0.5uvnx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
